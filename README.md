@@ -39,7 +39,5 @@ SMS for Notification<br>
 - Include all the jar files<br>
 - Right click on project and then run it.<br>
 
-## Team Members:
-Shreya Baliga --> 002795178 --> baliga.s@northeastern.edu <br>
-Shivani Sahu  --> 002737279 --> sahu.shi@northeastern.edu <br>
-Anuja Patil   --> 002797645 --> patil.anuj@northeastern.edu <br>
+
+
